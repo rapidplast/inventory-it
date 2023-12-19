@@ -31,13 +31,13 @@
     cp .env.example .env
  
     
- ### For Migration table in database [Create database name as ```ims_new```] and Make Seeder
+ ### For Migration table in database [Create database name as ```ims_update```] and Make Seeder
  
     php artisan migrate
     
     php artisan db:seed 
     
-### Server ON ```url: http://127.0.0.1:8000/```
-
-    php artisan serve
+### Server ON 
+    ```url: http://localhost/inventory-it/```
+    
 
