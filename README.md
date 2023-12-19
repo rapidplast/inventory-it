@@ -38,6 +38,6 @@
     php artisan db:seed 
     
 ### Server ON 
-    ```url: http://localhost/inventory-it/```
+    url: http://localhost/inventory-it/
     
 
