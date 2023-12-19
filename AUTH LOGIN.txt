@@ -1,0 +1,5 @@
+password admin : admin123
+$2y$10$5JmMgLyy1Pc92U2O/d9H2ODu61m3Zr4EfxrWc5xsvufsVKYVGpsRS
+
+password user : 12345
+$2y$10$2nK7opjwrM7FpAaK4rNKF.VidsQi2IC8Cb23K6PM2rFd8F7KBJEom
